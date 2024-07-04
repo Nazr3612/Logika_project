@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+footer img{
+    width:100px;
+    height: 90px;
+}
+
+main img{
+    border: 20px solid black;
+    border-radius: 50px;
+}
+
+a{
+    text-decoration: dotted;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
